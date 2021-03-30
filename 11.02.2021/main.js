@@ -30,8 +30,8 @@ if (!(age >= 14 && age <= 90)) {
 
 ex 3
 
-/*const validLoghin = 'Dumitru';
-const validPassword = 'aaa111';
+/*const validLoghin = 'denis';
+const validPassword = '12345';
 const inputLoghin = document.getElementById('form_login');
 const inputPassword = document.getElementById('form_password');
 const submit = document.getElementById('form_submit');
