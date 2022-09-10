@@ -64,3 +64,9 @@ let calc = () =>{
   return sum;
 }
 console.log(calc()); *
+
+
+
+
+
+sdgdhdfnrmgt,m
